@@ -1,4 +1,4 @@
 # harsh_repo
 My first Repo
 <br>
-Author - Harsh
+Author - Harsh(Athghara)
